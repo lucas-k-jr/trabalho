@@ -1,0 +1,47 @@
+body
+{
+	background-image:url(fundo.jpg);
+	background-color:black;
+	background-attachment:fixed;
+	background-size:90%;
+	background-repeat: no-repeat;
+	background-position:center;
+}
+
+table
+{
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 65%;
+	font-weight: bold;
+	color:black;
+    text-align: center;
+	padding: 10px;
+}
+thead
+{
+	background-color: gray;
+	color: black;
+}
+tbody{background-color: gray;}
+
+tr{border:2px solid black;}
+
+a
+{
+	border:2% solid;
+	width:27%;
+	margin:5px;
+	text-shadow: 0 0 5px #FF0000, 0 0 5px #0000FF;
+	color:white;
+	text-decoration: none;
+	text-align:center;
+}
+
+h1
+{
+	text-align: center;
+    text-transform: uppercase;
+    color: gray;
+	font-size:60px;
+}
